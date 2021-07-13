@@ -1,0 +1,41 @@
+.navbar {
+  background-color: #0a7bb4;
+}
+.navbar-item {
+  color: white;
+}
+.img-logo {
+  height: 3rem;
+}
+.btn btn-success {
+  background-color: #419641;
+}
+
+.nav-item a:hover {
+  background-color: #085175;
+}
+footer {
+  background: #096897;
+}
+footer a {
+  text-decoration: none;
+  color: #fff;
+}
+footer a:hover {
+  color: #0e1113;
+}
+.accordion-button:hover {
+  background-color: #1e2d4d;
+  color: #fff;
+}
+@media (max-width: 600px) {
+  .container .para {
+    margin-left: 0;
+  }
+}
+.accordion-body {
+  background-color: #40a7db;
+}
+.accordion-item {
+  background: transparent;
+}
